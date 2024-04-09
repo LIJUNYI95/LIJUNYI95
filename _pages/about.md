@@ -7,7 +7,7 @@ permalink: /
 profile:
   align: right
   image: hc.jpeg
-  image_circular: True # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>junyili@umd.edu</p>
     <p>[<a href="https://scholar.google.com/citations?user=MzvZSs0AAAAJ&hl=en">Google Scholar</a>]</p>
