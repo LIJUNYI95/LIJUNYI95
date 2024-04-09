@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>junyili.ai@gmail.com</p>
+    <p>junyili@umd.edu</p>
     <p>[<a href="https://scholar.google.com/citations?user=MzvZSs0AAAAJ&hl=en">Google Scholar</a>]</p>
     <p>[<a href="https://www.linkedin.com/in/junyilli-ai/">Linkedin</a>]</p>
 
