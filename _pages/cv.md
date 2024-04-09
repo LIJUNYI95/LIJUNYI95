@@ -2,10 +2,10 @@
 layout: cv
 permalink: /cv/
 title: CV
-nav: true
+nav: false
 nav_order: 3
 cv_pdf: Resume_25.pdf
-description: Resume
+description: Last update on April 2024
 toc:
   sidebar: left
 ---
