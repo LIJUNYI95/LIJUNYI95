@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='#'>University of Maryland, College Park</a>.
 
 profile:
-  align: left
+  align: right
   image: hc.jpeg
   image_circular: True # crops the image to make it circular
   more_info: >
