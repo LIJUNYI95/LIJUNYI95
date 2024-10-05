@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our Paper titled [Provably Faster Algorithms for Bilevel Optimization via
-Without-Replacement Sampling] is accepted to NeurIPS 2024!
+Our Paper titled [Provably Faster Algorithms for Bilevel Optimization via Without-Replacement Sampling] is accepted to NeurIPS 2024!
