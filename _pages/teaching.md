@@ -12,4 +12,4 @@ C++ Programming: The course covers fundamental concepts and techniques for solvi
 
 **Service**:
 
-PC Member/Reviewers for ICML, NeurIPS, ICLR, KDD, AAAI, CVPR, ECCV, ARR etc.
+PC Member/Reviewers for ICML, NeurIPS, ICLR, KDD, AAAI, AISTATS, CVPR, ECCV, ARR etc.
