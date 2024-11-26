@@ -8,7 +8,7 @@ nav_order: 4
 ---
 **Teaching**:
 
-C++ Programming: The course covers fundamental concepts and techniques for solving problems using C++.
+C++ Programming, Digital Electronics, Advanced Machine Learning and Deep Learning, Introduction to Machine Learning, Neuro-signal modeling \& analysis, Data Mining and Decision Making
 
 **Service**:
 
