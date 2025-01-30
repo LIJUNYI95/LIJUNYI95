@@ -22,5 +22,5 @@ social: false # includes social icons at the bottom of the page
 I am a final year Ph.D. student in the Department of Computer Science at University of Maryland, College Park, supervised by Prof. Heng Huang. Prior to that, I obtained my M.S. degree in Electrical& Computer Engineering at University of Michigan, Ann Arbor, and I obtained my B.S. degree in Electronic Engineering at Fudan University.
 
 
-**I am on the 2024-2025 job market!**
+**I am on the 2024-2025 academic job market!**
 
